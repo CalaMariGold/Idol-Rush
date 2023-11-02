@@ -1,0 +1,2 @@
+# Idol Rush
+ 
