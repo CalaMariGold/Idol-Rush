@@ -23,7 +23,7 @@ public class PlayerHealth : MonoBehaviour
     void Update()
     {
         healthBar.fillAmount = (float)currentHealth / maxHealth;
-        healthBarTransform.position = transform.position + new Vector3(0, 1.0f, 0);
+        healthBarTransform.position = transform.position + new Vector3(0, 1.3f, 0);
 
     }
 
